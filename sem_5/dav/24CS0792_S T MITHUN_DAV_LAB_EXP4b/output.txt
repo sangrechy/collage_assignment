@@ -1,0 +1,3 @@
+Z-Statistic: 8.3180
+P-Value: 0.0000
+Reject the null hypothesis: mean Glucose level is significantly different from 100.

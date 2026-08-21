@@ -1,0 +1,2 @@
+UCI Diabetes Dataset - Linear Regression Results: R2=-0.1095, MSE=366.9262, MAE=17.2148
+Pima Indians Diabetes Dataset - Linear Regression Results: R2=-0.0381, MSE=298.6340, MAE=15.1888

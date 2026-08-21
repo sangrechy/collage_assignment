@@ -1,0 +1,27 @@
+Text file data:
+       Product  Price  Quantity  ...  numeric_column     column1 column2
+0      Laptop   1000         5  ...            1000      Laptop    1000
+1  Smartphone    800         8  ...             800  Smartphone     800
+2      Tablet    500        10  ...             500      Tablet     500
+3  Headphones    100        15  ...             100  Headphones     100
+
+[4 rows x 9 columns]
+
+Excel file data:
+       Product  Price  Quantity  ...  numeric_column     column1 column2
+0      Laptop   1000         5  ...            1000      Laptop    1000
+1  Smartphone    800         8  ...             800  Smartphone     800
+2      Tablet    500        10  ...             500      Tablet     500
+3  Headphones    100        15  ...             100  Headphones     100
+
+[4 rows x 9 columns]
+
+Web data:
+     Country  Region
+0   Algeria  AFRICA
+1    Angola  AFRICA
+2     Benin  AFRICA
+3  Botswana  AFRICA
+4   Burkina  AFRICA
+
+Saved processed_text.csv and processed_excel.xlsx

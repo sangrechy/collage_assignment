@@ -1,0 +1,6 @@
+
+Linear Regression [UCI] (Predicting BMI using Glucose): R2 = 0.0000
+
+Linear Regression [Pima] (Predicting BMI using Glucose): R2 = 0.0069
+Logistic Regression [UCI] (Predicting Outcome): Accuracy = 0.7500
+Logistic Regression [Pima] (Predicting Outcome): Accuracy = 0.8500

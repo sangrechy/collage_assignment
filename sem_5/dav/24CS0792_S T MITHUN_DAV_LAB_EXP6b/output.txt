@@ -1,0 +1,3 @@
+UCI - Logistic Regression: Accuracy=0.7500, Precision=0.6364, Recall=0.8750, F1=0.7368
+Pima - Logistic Regression: Accuracy=0.8750, Precision=0.9444, Recall=0.8095, F1=0.8718
+Saved confusion_matrices.png
