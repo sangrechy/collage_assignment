@@ -1,0 +1,13 @@
+Enter declarations and expressions:
+int a;
+int b;
+int c;
+a=b*c;
+No type mismatch in expression: a = ...
+
+Enter declarations and expressions:
+int a;
+float b;
+int c;
+a=b+c;
+Type mismatch in assignment to a

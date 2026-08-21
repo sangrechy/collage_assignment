@@ -1,0 +1,26 @@
+Enter TAC statements (end with Ctrl+D):
+t1=a+b;
+MOV AX, a
+ADD AX, b
+MOV t1, AX
+
+t2=t1-c;
+MOV AX, t1
+SUB AX, c
+MOV t2, AX
+
+t3=t2*d;
+MOV AX, t2
+MUL d
+MOV t3, AX
+
+t4=t3/e;
+MOV AX, t3
+MOV DX, 0
+MOV BX, e
+DIV BX
+MOV t4, AX
+
+x=t4;
+MOV AX, t4
+MOV x, AX

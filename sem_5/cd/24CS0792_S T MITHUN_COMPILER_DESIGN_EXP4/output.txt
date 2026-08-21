@@ -1,0 +1,11 @@
+Enter the variable:
+add
+Valid variable
+
+Enter the variable:
+add1
+Valid variable
+
+Enter the variable:
+1add
+Invalid variable
